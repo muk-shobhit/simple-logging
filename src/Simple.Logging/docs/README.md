@@ -44,7 +44,7 @@ The latest version targets .NET 6.
 
 - Simple Serilog logging extension method that can be used in any dotnet core based apps
 - App insight integration
-- Structured and coped logging - Serilog
+- Structured and scoped logging - Serilog
 - Tracking outbound calls. Such as request url, method, response code, error etc.
-- Correlation if middleware to track all events emitted from the service.
+- Correlation-id middleware to track all events emitted from the service.
 - Configurable logging
