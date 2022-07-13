@@ -16,7 +16,7 @@ appsettings.json
 
 ```json
 {
-  "AppInsights": { "IKey": "<key>" }
+  "AppInsights": { "IKey": "<AppInsightsInstrumentationKey>" }
 }
 ```
 
